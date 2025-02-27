@@ -8,5 +8,14 @@ def f2():
 
 
 if __name__ == "__main__":
+    x = 0  # Declare the variable 'x'
     f1()
-    f2()
+    f2(3*3)
+    print(f"x in main is {x}")
+    x = 7
+    print(f"x in main is {x}")
+    7 * 7 = 49
+    8 * 8 = 64
+    9 * 9 = 81
+    10 * 10 = 100
+

@@ -9,9 +9,7 @@ def main():
     ex31.salutation()
 
 if __name__ == "__main__":
-    main()
+    main(36)
     x = 11
     print(f"The value of x is {x}")
-    print(f"The value of x in program 1 is {ex31.x}")
-    print(f"The value of x in program 2 is {ex32.x}")
     

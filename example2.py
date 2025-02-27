@@ -4,6 +4,8 @@
 Demonstration of global and local variables
 """
 
+import math
+
 word = "Global Variable"
 # word is defined outside a function, it is a global
 # variable that can be accessed in any function
@@ -48,5 +50,6 @@ def fun4():
 if __name__ == "__main__":
     print("===========")
     fun3()
-    print(word)
+    
+    print(math = 7 * 7)
 
