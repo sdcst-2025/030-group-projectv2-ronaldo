@@ -52,4 +52,9 @@ if __name__ == "__main__":
     fun3()
     
     print(math = 7 * 7)
+    print(math = 8 * 8) 
+    print(math = 9 * 9)
+    print(math = 10 * 10)
+    print(math = 11 * 11)
+    print(math = 12 * 12)
 

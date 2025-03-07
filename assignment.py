@@ -9,7 +9,7 @@ def title():
     # output parameters: None
     # Author: Copper
     # Modified:
-    # title
+    # title  
     return None
 
 def instructions():
@@ -24,7 +24,13 @@ def instructions():
 
 def main():
     """   main block of code that will run your program and control program flow
-    You will need to include a while loop to keep repeating the commands until   the user chooses to exit   """   title()   while True:         # keep giving options to choose menu options until they choose to exit   pass
+    You will need to include a while loop to keep repeating the commands until   the user chooses to exit   """
+    title()
+    while True:
+        # keep giving options to choose menu options until they choose to exit
+        pass
 
 if __name__ == "__main__":
+    main()
+    main()
     main()
